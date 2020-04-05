@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "this script is from github"
-echo "this is testing github hook for jenkins server"
+echo "this is testing github hook for jenkins" 
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
